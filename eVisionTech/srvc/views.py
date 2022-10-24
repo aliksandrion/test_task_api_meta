@@ -1,4 +1,4 @@
-from srvc.config import DEFAULT_DIRECTORY
+from params.config import DEFAULT_DIRECTORY
 
 from django.http import JsonResponse
 import os
